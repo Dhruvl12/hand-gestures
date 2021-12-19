@@ -1,0 +1,13 @@
+.body{
+    background-color: blueviolet;
+}
+#webcam{
+    width: 400px;
+    height: 400px;
+    border: dashed;
+}
+#result{
+    width: 400px;
+    height: 400px;
+    border: dashed;
+}
